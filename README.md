@@ -12,7 +12,7 @@ for audio and visual modalities. This work explores and integrates audio
 and visual modalities through feature-level and decision-level fusion.
 
 
-**Author**: Md. Tanvir Rahman, Shawly Ahsan, Jawad Hossain, Mohammed3 Moshiul Hoque, and M. Ali Akber Dewan
+**Author**: Md. Tanvir Rahman, Shawly Ahsan, Jawad Hossain, Mohammed Moshiul Hoque, and M. Ali Akber Dewan
 
 ## Dataset
 
